@@ -2,3 +2,4 @@
 **/*.rs.bk
 Cargo.lock
 .fuse_hidden*
+process-repo.log
